@@ -1,4 +1,4 @@
-module github.com/takakd/gqlparser
+module github.com/takakd/gqlparser/v2
 
 go 1.12
 
